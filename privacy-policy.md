@@ -1,4 +1,4 @@
-Privacy Policy for Present
+#Privacy Policy for Present
 Effective Date: March 25, 2026
 
 Your privacy is the core of Present. This Privacy Policy explains how I, David Perelman, handle your data. My philosophy is simple: Your data belongs to you, and I have no interest in seeing it.
